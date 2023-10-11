@@ -1,0 +1,20 @@
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 16px;
+	padding: var(--header_padding);
+}
+
+.modeIcon {
+	width: 16px;
+	height: 16px;
+	transform: rotate(-45deg);
+}
+
+.modeBox {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 5px;
+}

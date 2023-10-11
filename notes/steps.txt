@@ -1,0 +1,14 @@
+1. css dark light mode roots
+2. navbar with where in the world ? and mode changer icon
+3. page header component full length with space between left input rigth select
+4. homepage with 8 countries in 2 rows
+
+// =====> components
+
+1. card => with image, title and info => flex column
+2. single country page container => {
+  flag, 
+  info
+} 
+3. tags => button styled
+4. button => to go back
